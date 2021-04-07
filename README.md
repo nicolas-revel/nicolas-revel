@@ -16,7 +16,11 @@
 [<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/stack-overflow.png" />][stack-overflow]
 [<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/twitch.png" />][twitch]
 
+<br/>
+
 #### Mes technos :
+
+<br/>
 
 [<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/html-5.svg" />][html]
 [<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/css.svg" />][css]
@@ -28,13 +32,16 @@
 [<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/sass.svg" />][sass]
 [<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/javascript.svg" />][javascript]
 
+<br/>
+
 #### Mes outils :
+
+<br/>
 
 [<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/vscode.png" />][vscode]
 [<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/kubuntu.png" />][kubuntu]
 [<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/gitkraken.png" />][gitkraken]
 [<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/apache.svg" />][apache2]
-
 
 [portfolio]: https://nicolas-revel.students-laplateforme.io/
 [twitter]: https://twitter.com/NicoRvl_Dev
