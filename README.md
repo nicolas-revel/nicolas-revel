@@ -2,11 +2,11 @@
 
 ## Apprenti développeur web et mobile, jeune psychologue, streamer
 
-- Je suis actuellement en train de créer mon [portfolio] 😁
-- Je me forme sur Symfony et React 🤓
+- Je suis actuellement en train de reprendre mon [portfolio] 😁
+- Je me forme sur NodeJS et React 🤓
 - Je suis en alternance depuis Septembre 2021 💪
 - Je suis ouvert à des opportunités suite à mon contrat d'alternance 😉
-- Fun fact : je fais des stream, mais pas que du Live coding 🎮
+- Fun fact : je fais des streams, mais pas que du Live coding 🎮
 
 #### Mes réseaux :
 
