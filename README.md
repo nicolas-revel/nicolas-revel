@@ -1,63 +1,31 @@
-### Salut ! Je suis Nicolas Revel, et je vous souhaite la bienvenue !
+<h1 align="center">Hi 👋, I'm Nicolas Revel</h1>
+<h3 align="center">Fullstack web developer</h3>
 
-## Apprenti développeur web et mobile, jeune psychologue, streamer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolas-revel&label=Profile%20views&color=ffa200&style=flat" alt="nicolas-revel" /> </p>
 
-- Je suis actuellement en train de reprendre mon [portfolio] 😁
-- Je me forme sur NodeJS et React 🤓
-- Je suis en alternance depuis Septembre 2021 💪
-- Je suis ouvert à des opportunités suite à mon contrat d'alternance 😉
-- Fun fact : je fais des streams, mais pas que du Live coding 🎮
+<p align="left"> <a href="https://twitter.com/nicorvl_dev" target="blank"><img src="https://img.shields.io/twitter/follow/nicorvl_dev?logo=twitter&style=for-the-badge" alt="nicorvl_dev" /></a> </p>
 
-#### Mes réseaux :
+- 🔭 I’m currently working on a [Trello Clone Project](https://www.github.com/nicolas-revel/trello-clone)
 
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/twitter.png" />][twitter]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/globe.png" />][portfolio]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/linkedin.png" />][linkedin]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/stack-overflow.png" />][stack-overflow]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/twitch.png" />][twitch]
+- 🌱 I’m currently learning **NextJS, Docker and TypeScript**
 
-<br/>
+- 👯 I’m looking to collaborate on **some freelance projects**
 
-#### Mes technos :
+- 💬 Ask me about **PHP, Symfony, VanillaJS**
 
-<br/>
+- 📫 How to reach me **nicolas.revel@laplateforme.io**
 
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/html-5.svg" />][html]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/css.svg" />][css]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/php.svg" />][php]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/mysql.svg" />][mysql]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/github.svg" />][github]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/compositeur.svg" />][composer]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/gnu-bash.svg" />][gnu-bash]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/sass.svg" />][sass]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/javascript.svg" />][javascript]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nicorvl_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicorvl_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nicolas-revel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-revel" height="30" width="40" /></a>
+</p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-#### Mes outils :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolas-revel&show_icons=true&theme=tokyonight&locale=fr&layout=compact" alt="nicolas-revel" /></p>
 
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas-revel&show_icons=true&theme=tokyonight&locale=fr" alt="nicolas-revel" /></p>
 
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/vscode.png" />][vscode]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/kubuntu.png" />][kubuntu]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/gitkraken.png" />][gitkraken]
-[<img align="left" alt="twitter @NicoRvl_Dev" width="24px" src="img/logo/apache.svg" />][apache2]
-
-[portfolio]: https://nicolas-revel.students-laplateforme.io/
-[twitter]: https://twitter.com/NicoRvl_Dev
-[linkedin]: https://www.linkedin.com/in/nicolas-revel-62026817a/
-[stack-overflow]: https://stackoverflow.com/users/14775067/nicolas-revel?tab=profile
-[twitch]: https://twitch.tv/nico_rvl
-[php]: https://www.php.net/manual/en/index.php
-[html]: https://developer.mozilla.org/fr/docs/Web/HTML
-[css]: https://developer.mozilla.org/fr/docs/Web/CSS
-[javascript]: https://developer.mozilla.org/fr/docs/Web/JavaScript
-[mysql]: https://www.mysql.com/fr/
-[github]: https://git-scm.com/
-[composer]: https://getcomposer.org/
-[gnu-bash]: https://www.gnu.org/software/bash/
-[sass]: https://sass-lang.com/
-[vscode]: https://code.visualstudio.com/
-[kubuntu]: https://kubuntu.org/
-[gitkraken]: https://www.gitkraken.com/
-[apache2]: https://httpd.apache.org/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-revel&theme=dark" alt="nicolas-revel" /></p>
