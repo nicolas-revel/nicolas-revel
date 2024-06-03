@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nicorvl_dev" target="blank"><img src="https://img.shields.io/twitter/follow/nicorvl_dev?logo=twitter&style=for-the-badge" alt="nicorvl_dev" /></a> </p>
 
-- 🔭 I’m currently working on a [Trello Clone Project](https://www.github.com/nicolas-revel/trello-clone)
-
-- 🌱 I’m currently learning **NextJS, Docker and TypeScript**
+- 🌱 I’m currently learning **NestJS, Docker and TypeScript**
 
 - 👯 I’m looking to collaborate on **some freelance projects**
 
