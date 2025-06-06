@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/nicorvl_dev" target="blank"><img src="https://img.shields.io/twitter/follow/nicorvl_dev?logo=twitter&style=for-the-badge" alt="nicorvl_dev" /></a> </p>
 
-- 🌱 I’m currently learning **NestJS, Docker and TypeScript**
+- 🌱 I’m currently learning **LangChain and LangGraph**
 
 - 👯 I’m looking to collaborate on **some freelance projects**
 
-- 💬 Ask me about **PHP, Symfony, VanillaJS**
+- 💬 Ask me about **TypeScript, Nest, React, Docker and Symfony**
 
 - 📫 How to reach me **nicolas.revel@laplateforme.io**
 
